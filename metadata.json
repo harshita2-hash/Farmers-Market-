@@ -1,0 +1,6 @@
+{
+  "name": "Natural Grocery",
+  "description": "A premium online marketplace connecting customers directly with local farmers and organic producers of fresh produce, dairy, and grains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
